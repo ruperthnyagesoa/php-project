@@ -17,7 +17,7 @@ Made with basic HTML, CSS, JavaScript and backend with PHP.
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ## Sneak Peek of User Page 🙈 :
-![phppblform](https://github.com/ruperthnyagesoa/php-project/blob/main/pblactivityform.png)
+![phppblform](https://github.com/ruperthnyagesoa/php-project/blob/main/pblform/pblactivityform.png)
 
 
 <h2>📬 Contact</h2>
