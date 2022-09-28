@@ -1,0 +1,16 @@
+table{
+    font-size: 1rem;
+    margin-top: 1rem;
+    background: #fff;
+}
+thead th{
+    background: #540fc4;
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    letter-spacing: 0.1rem;
+}
+tbody td{
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+}
